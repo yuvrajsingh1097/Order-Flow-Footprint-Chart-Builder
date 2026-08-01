@@ -42,3 +42,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+## mainly for buy and sell purpose 
