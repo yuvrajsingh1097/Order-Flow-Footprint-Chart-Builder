@@ -116,3 +116,7 @@ they only depend on the four-column schema above.
 - Footprint charts are inherently a zoomed-in tool (`plot_footprint`)
   only renders the most recent N candles) — they're meant for reading a
   specific moment of price action, not scanning a whole session.
+
+
+
+  #mainly concept based on maths where people buy and sell shoes numbers as candles 
