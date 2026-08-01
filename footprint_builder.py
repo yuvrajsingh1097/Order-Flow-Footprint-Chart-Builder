@@ -126,3 +126,8 @@ if __name__ == "__main__":
     summary = candles_to_summary_df(candles)
     print(summary.head(10))
     print(f"\nBuilt {len(candles)} footprint candles from {len(ticks)} ticks")
+
+
+
+
+## mianly for candle purpose it helps where to buy and sell 
