@@ -83,3 +83,6 @@ if __name__ == "__main__":
     df.to_csv("output/sample_ticks.csv", index=False)
     print(f"Simulated {len(df)} ticks, price range "
           f"[{df.price.min():.2f}, {df.price.max():.2f}]")
+
+
+## code helps identify points as numbers in candle
