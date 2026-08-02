@@ -119,4 +119,7 @@ they only depend on the four-column schema above.
 
 
 
-  #mainly concept based on maths where people buy and sell shoes numbers as candles 
+  #mainly concept based on maths where people buy and sell shoes numbers as candles
+
+
+  orderflow different from ict the other project wihc i posted 
