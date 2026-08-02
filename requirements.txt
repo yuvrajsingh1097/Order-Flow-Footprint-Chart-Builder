@@ -1,3 +1,6 @@
 numpy>=1.24
 pandas>=2.0
 matplotlib>=3.7
+
+
+basic knowledge of orderlfow and how maths behind the candles work
