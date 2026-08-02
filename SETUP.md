@@ -95,3 +95,6 @@ All the knobs that change chart behavior live in `src/main.py`:
 `ticks_per_candle`, `level_size`, `imbalance_ratio`, and `n_ticks`
 (session length). See the "Configuration knobs" section of `README.md`
 for what each one does.
+
+
+same for mac just opt the terminal mac os 
