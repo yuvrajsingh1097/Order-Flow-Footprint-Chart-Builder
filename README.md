@@ -122,4 +122,8 @@ they only depend on the four-column schema above.
   #mainly concept based on maths where people buy and sell shoes numbers as candles
 
 
-  orderflow different from ict the other project wihc i posted 
+  orderflow different from ict the other project wihc i posted
+
+
+  <img width="2100" height="900" alt="absorption_events_chart" src="https://github.com/user-attachments/assets/54e04b86-38cb-4299-bc8c-336ffde0b146" />
+
