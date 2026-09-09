@@ -13,7 +13,7 @@ absorbing flow.
 
 ## What's in a footprint chart
 
-Each cell in the grid corresponds to one price level within one candle,
+Each cell in the grid corresponds to one price level within one candle,nm 
 formatted as:
 
 ```
